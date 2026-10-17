@@ -7,4 +7,4 @@ This is my first Git project.
 - Feature one
 - Feature two
 
-**This text is bold.**
+**This text is  bold.**
